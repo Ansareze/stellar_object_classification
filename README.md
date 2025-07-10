@@ -1,20 +1,20 @@
 # stellar_object_classification
 
-🌌 Stellar Object Detection using Machine Learning Models
+Stellar Object Detection using Machine Learning Models
 =========================================================
 
 This project aims to classify stellar objects based on given features using various machine learning algorithms. After testing multiple models, **Gradient Boosting** was identified as the best-performing model. The final model was deployed using **Gradio** for an interactive web-based interface.
 
 * * * * *
 
-🚀 Project Overview
+Project Overview
 -------------------
 
 Classifying stellar objects, such as stars, galaxies, and quasars, is crucial in astronomical studies. This project applies multiple supervised learning algorithms to detect and classify stellar objects efficiently. The best-performing model, **Gradient Boosting**, was deployed on **Gradio** to provide real-time predictions.
 
 * * * * *
 
-📊 Models Used
+Models Used
 --------------
 
 The following machine learning models were implemented and compared:
