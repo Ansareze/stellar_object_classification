@@ -2,3 +2,10 @@ gradio
 pandas
 joblib
 scikit-learn 
+torch
+statsmodels
+seaborn
+matplotlib 
+xgboost 
+tensorflow 
+astropy 
