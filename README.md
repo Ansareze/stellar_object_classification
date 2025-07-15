@@ -29,3 +29,8 @@ The following machine learning models were implemented and compared:
 8.  **Neural Network**
 
 > **Gradient Boosting** superior performance in terms of accuracy, precision, and recall compared to other models.
+
+
+# GitHub: https://github.com/Ansareze/stellar_object_classification
+# Hugging Face: https://huggingface.co/spaces/Ansareze/stellar_object_classification
+# Kaggle: https://www.kaggle.com/code/shakilansari006/stellar-object-classification
